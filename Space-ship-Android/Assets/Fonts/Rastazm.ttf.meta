@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 08f6c6eb9aba1b6409b0095fefc7e8d1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rastazm
+  fontNames:
+  - Rastazm
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06d92f20ee604314db701db6e0ad64fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
